@@ -1,4 +1,4 @@
-# DIS-Workshop
+# DIS-Booth
 Spinning Wheel
 
 Crucial files are commited.
